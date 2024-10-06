@@ -1,0 +1,66 @@
+.img{
+    text-align: center;
+    color: aqua;
+}
+.main-product{
+    margin: auto;
+    width: fit-content}
+.main{
+    border: 2px solid gainsboro;
+    width: 100px;
+    text-align: center;
+    box-sizing: border-box;
+    display: inline-block;
+    padding-top: 10px;
+    justify-content: center;
+}
+h5:hover{
+    color: black;
+}
+.all-products{
+    text-align: center;
+    margin: auto;
+}
+.product{
+    border: 2px solid gainsboro;
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    text-align: center;
+    background-image: background: #CC95C0;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #7AA1D2, #DBD4B4, #CC95C0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+div a{
+    text-decoration: none;
+    font-size: 20px;
+}
+div a:hover{
+     color: black ;
+     text-decoration: underline;
+}
+h5{
+    font-size: 15px;
+    color: brown;
+}
+div h5 span{
+    font-size: 12px;
+    text-decoration: line-through;
+}
+.story{
+    font-family: sans-serif;
+}
+.story h1{
+    font-size: 50px;
+    color: red;
+}
+.story h4{
+    color:brown;
+}
+.video{
+    margin-top: 0;
+    width: 560px;
+    display: inline-block;
+    border-radius: 5px;
+    justify-content: center;
+}
